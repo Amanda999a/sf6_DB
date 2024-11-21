@@ -1,0 +1,1 @@
+SELECT * FROM 241121_실습1.order_detail;
